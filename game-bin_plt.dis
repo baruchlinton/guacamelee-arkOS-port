@@ -1,0 +1,3516 @@
+void (bool fArg04, bool fArg08)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD5Event7releaseEbb_exit:
+_ZN4FMOD5Event7releaseEbb_entry:
+
+
+void pthread_mutexattr_setpshared()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_mutexattr_setpshared_exit:
+pthread_mutexattr_setpshared_entry:
+
+
+void SteamAPI_Shutdown()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SteamAPI_Shutdown_exit:
+SteamAPI_Shutdown_entry:
+
+
+void wcscpy()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+wcscpy_exit:
+wcscpy_entry:
+
+
+void SDL_GameControllerNameForIndex()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GameControllerNameForIndex_exit:
+SDL_GameControllerNameForIndex_entry:
+
+
+void __libc_start_main()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__libc_start_main_exit:
+__libc_start_main_entry:
+
+
+void time()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+time_exit:
+time_entry:
+
+
+void glClearDepth()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glClearDepth_exit:
+glClearDepth_entry:
+
+
+void SDL_JoystickClose()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_JoystickClose_exit:
+SDL_JoystickClose_entry:
+
+
+void __udivdi3()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__udivdi3_exit:
+__udivdi3_entry:
+
+
+void pthread_mutexattr_setprotocol()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_mutexattr_setprotocol_exit:
+pthread_mutexattr_setprotocol_entry:
+
+
+void SDL_GL_DeleteContext()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GL_DeleteContext_exit:
+SDL_GL_DeleteContext_entry:
+
+
+void __isnanf()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__isnanf_exit:
+__isnanf_entry:
+
+
+void std::__throw_bad_alloc()
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZSt17__throw_bad_allocv_exit:
+_ZSt17__throw_bad_allocv_entry:
+
+
+void __isoc99_sscanf()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__isoc99_sscanf_exit:
+__isoc99_sscanf_entry:
+
+
+void SDL_SetWindowFullscreen()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_SetWindowFullscreen_exit:
+SDL_SetWindowFullscreen_entry:
+
+
+void wcslen()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+wcslen_exit:
+wcslen_entry:
+
+
+void pthread_attr_setstacksize()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_attr_setstacksize_exit:
+pthread_attr_setstacksize_entry:
+
+
+void (FMOD_RESULT (* ptrArg04)(const char * ptrArg04, int32 dwArg08, uint32 * ptrArg0C, void ** ptrArg10, void ** ptrArg14), setFileSystem (* ptrArg08)(void * ptrArg04, void * ptrArg08), setFileSystem (* ptrArg0C)(void * ptrArg04, void * ptrArg08, uint32 dwArg0C, uint32 * ptrArg10, void * ptrArg14), setFileSystem (* ptrArg10)(void * ptrArg04, uint32 dwArg08, void * ptrArg0C), setFileSystem (* ptrArg14)(FMOD_ASYNCREADINFO * ptrArg04, void * ptrArg08), setFileSystem (* ptrArg18)(void * ptrArg04, uint32 dwArg08, void * ptrArg0C), int32 dwArg1C)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD6System13setFileSystemEPF11FMOD_RESULTPKciPjPPvS6_EPFS1_S5_S5_EPFS1_S5_S5_jS4_S5_EPFS1_S5_jS5_EPFS1_P18FMOD_ASYNCREADINFOS5_ESA_i_exit:
+_ZN4FMOD6System13setFileSystemEPF11FMOD_RESULTPKciPjPPvS6_EPFS1_S5_S5_EPFS1_S5_S5_jS4_S5_EPFS1_S5_jS5_EPFS1_P18FMOD_ASYNCREADINFOS5_ESA_i_entry:
+
+
+void glClearColor()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glClearColor_exit:
+glClearColor_entry:
+
+
+void __ctype_b_loc()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__ctype_b_loc_exit:
+__ctype_b_loc_entry:
+
+
+void wcsstr()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+wcsstr_exit:
+wcsstr_entry:
+
+
+void abort()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+abort_exit:
+abort_entry:
+
+
+void mkdir()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+mkdir_exit:
+mkdir_entry:
+
+
+void pthread_mutex_lock()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_mutex_lock_exit:
+pthread_mutex_lock_entry:
+
+
+void pthread_condattr_destroy()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_condattr_destroy_exit:
+pthread_condattr_destroy_entry:
+
+
+void (int32 * ptrArg04, const char ** ptrArg08, FMOD_EVENT_INFO * ptrArg0C)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD5Event7getInfoEPiPPcP15FMOD_EVENT_INFO_exit:
+_ZN4FMOD5Event7getInfoEPiPPcP15FMOD_EVENT_INFO_entry:
+
+
+void (real32 rArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD5Event9setVolumeEf_exit:
+_ZN4FMOD5Event9setVolumeEf_entry:
+
+
+void __wcscpy_chk()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__wcscpy_chk_exit:
+__wcscpy_chk_entry:
+
+
+void asctime()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+asctime_exit:
+asctime_entry:
+
+
+void SDL_GameControllerGetAxis()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GameControllerGetAxis_exit:
+SDL_GameControllerGetAxis_entry:
+
+
+void (int32 dwArg04, uint32 dwArg08, void * ptrArg0C, uint32 dwArg10)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD11EventSystem4initEijPvj_exit:
+_ZN4FMOD11EventSystem4initEijPvj_entry:
+
+
+void SDL_HapticOpenFromJoystick()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_HapticOpenFromJoystick_exit:
+SDL_HapticOpenFromJoystick_entry:
+
+
+void (const char * ptrArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD11EventSystem12setMediaPathEPKc_exit:
+_ZN4FMOD11EventSystem12setMediaPathEPKc_entry:
+
+
+void exit()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+exit_exit:
+exit_entry:
+
+
+void (int32 dwArg04, void * ptrArg08, bool fArg0C)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD5Event18setPropertyByIndexEiPvb_exit:
+_ZN4FMOD5Event18setPropertyByIndexEiPvb_entry:
+
+
+void pthread_attr_setaffinity_np()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_attr_setaffinity_np_exit:
+pthread_attr_setaffinity_np_entry:
+
+
+void pthread_create()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_create_exit:
+pthread_create_entry:
+
+
+void SDL_JoystickNumAxes()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_JoystickNumAxes_exit:
+SDL_JoystickNumAxes_entry:
+
+
+void __vsnprintf_chk()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__vsnprintf_chk_exit:
+__vsnprintf_chk_entry:
+
+
+void memcpy()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+memcpy_exit:
+memcpy_entry:
+
+
+void ()
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD11EventSystem7releaseEv_exit:
+_ZN4FMOD11EventSystem7releaseEv_entry:
+
+
+void memmove()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+memmove_exit:
+memmove_entry:
+
+
+void strncpy()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+strncpy_exit:
+strncpy_entry:
+
+
+void fesetexceptflag()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+fesetexceptflag_exit:
+fesetexceptflag_entry:
+
+
+void (FMOD_ADVANCEDSETTINGS * ptrArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD6System19setAdvancedSettingsEP21FMOD_ADVANCEDSETTINGS_exit:
+_ZN4FMOD6System19setAdvancedSettingsEP21FMOD_ADVANCEDSETTINGS_entry:
+
+
+void SteamAPI_RestartAppIfNecessary()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SteamAPI_RestartAppIfNecessary_exit:
+SteamAPI_RestartAppIfNecessary_entry:
+
+
+void realloc()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+realloc_exit:
+realloc_entry:
+
+
+void SDL_HapticClose()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_HapticClose_exit:
+SDL_HapticClose_entry:
+
+
+void glDepthFunc()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glDepthFunc_exit:
+glDepthFunc_entry:
+
+
+void glDrawElements()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glDrawElements_exit:
+glDrawElements_entry:
+
+
+void __fprintf_chk()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__fprintf_chk_exit:
+__fprintf_chk_entry:
+
+
+void SDL_JoystickNumBalls()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_JoystickNumBalls_exit:
+SDL_JoystickNumBalls_entry:
+
+
+void fgets()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+fgets_exit:
+fgets_entry:
+
+
+void (int32 dwArg04, FMOD_VECTOR * ptrArg08, FMOD_VECTOR * ptrArg0C, FMOD_VECTOR * ptrArg10, FMOD_VECTOR * ptrArg14)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD11EventSystem23set3DListenerAttributesEiPK11FMOD_VECTORS3_S3_S3__exit:
+_ZN4FMOD11EventSystem23set3DListenerAttributesEiPK11FMOD_VECTORS3_S3_S3__entry:
+
+
+void towlower()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+towlower_exit:
+towlower_entry:
+
+
+void isspace()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+isspace_exit:
+isspace_entry:
+
+
+void SDL_ClearError()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_ClearError_exit:
+SDL_ClearError_entry:
+
+
+void glColorMask()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glColorMask_exit:
+glColorMask_entry:
+
+
+void (void ** ptrArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD5Sound11getUserDataEPPv_exit:
+_ZN4FMOD5Sound11getUserDataEPPv_entry:
+
+
+void SDL_GetWindowGrab()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GetWindowGrab_exit:
+SDL_GetWindowGrab_entry:
+
+
+void pthread_mutex_init()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_mutex_init_exit:
+pthread_mutex_init_entry:
+
+
+void __stack_chk_fail()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__stack_chk_fail_exit:
+__stack_chk_fail_entry:
+
+
+void SDL_HapticRumbleInit()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_HapticRumbleInit_exit:
+SDL_HapticRumbleInit_entry:
+
+
+void (const char * ptrArg04, FMOD::EventCategory ** ptrArg08)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD11EventSystem11getCategoryEPKcPPNS_13EventCategoryE_exit:
+_ZN4FMOD11EventSystem11getCategoryEPKcPPNS_13EventCategoryE_entry:
+
+
+void pthread_cond_destroy()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_cond_destroy_exit:
+pthread_cond_destroy_entry:
+
+
+void glFrontFace()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glFrontFace_exit:
+glFrontFace_entry:
+
+
+void __longjmp_chk()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__longjmp_chk_exit:
+__longjmp_chk_entry:
+
+
+void pthread_condattr_init()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_condattr_init_exit:
+pthread_condattr_init_entry:
+
+
+void __ctype_toupper_loc()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__ctype_toupper_loc_exit:
+__ctype_toupper_loc_entry:
+
+
+void FMOD_Event_Stop()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+FMOD_Event_Stop_exit:
+FMOD_Event_Stop_entry:
+
+
+void (real32 rArg04, real32 rArg08, real32 rArg0C, int32 dwArg10)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD5Sound11setDefaultsEfffi_exit:
+_ZN4FMOD5Sound11setDefaultsEfffi_entry:
+
+
+void pow()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pow_exit:
+pow_entry:
+
+
+void SDL_JoystickNameForIndex()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_JoystickNameForIndex_exit:
+SDL_JoystickNameForIndex_entry:
+
+
+void SDL_Quit()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_Quit_exit:
+SDL_Quit_entry:
+
+
+void SDL_GL_SwapWindow()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GL_SwapWindow_exit:
+SDL_GL_SwapWindow_entry:
+
+
+void glXQueryVersion()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glXQueryVersion_exit:
+glXQueryVersion_entry:
+
+
+void SDL_FreeSurface()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_FreeSurface_exit:
+SDL_FreeSurface_entry:
+
+
+void SDL_GameControllerClose()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GameControllerClose_exit:
+SDL_GameControllerClose_entry:
+
+
+void (FMOD::EventGroup ** ptrArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD5Event14getParentGroupEPPNS_10EventGroupE_exit:
+_ZN4FMOD5Event14getParentGroupEPPNS_10EventGroupE_entry:
+
+
+void __cxa_guard_acquire()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__cxa_guard_acquire_exit:
+__cxa_guard_acquire_entry:
+
+
+void __fxstat()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__fxstat_exit:
+__fxstat_entry:
+
+
+void _IO_getc()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_IO_getc_exit:
+_IO_getc_entry:
+
+
+void ftell()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+ftell_exit:
+ftell_entry:
+
+
+void SDL_JoystickNumHats()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_JoystickNumHats_exit:
+SDL_JoystickNumHats_entry:
+
+
+void sscanf()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+sscanf_exit:
+sscanf_entry:
+
+
+void SDL_GL_GetCurrentContext()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GL_GetCurrentContext_exit:
+SDL_GL_GetCurrentContext_entry:
+
+
+void __strncpy_chk()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__strncpy_chk_exit:
+__strncpy_chk_entry:
+
+
+void glGenTextures()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glGenTextures_exit:
+glGenTextures_entry:
+
+
+void pthread_join()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_join_exit:
+pthread_join_entry:
+
+
+void fwrite()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+fwrite_exit:
+fwrite_entry:
+
+
+void __gmon_start__()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__gmon_start___exit:
+__gmon_start___entry:
+
+
+void SDL_DisableScreenSaver()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_DisableScreenSaver_exit:
+SDL_DisableScreenSaver_entry:
+
+
+void (const char * ptrArg04, uint32 dwArg08, FMOD_CREATESOUNDEXINFO * ptrArg0C, FMOD::Sound ** ptrArg10)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD6System11createSoundEPKcjP22FMOD_CREATESOUNDEXINFOPPNS_5SoundE_exit:
+_ZN4FMOD6System11createSoundEPKcjP22FMOD_CREATESOUNDEXINFOPPNS_5SoundE_entry:
+
+
+void SDL_NumHaptics()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_NumHaptics_exit:
+SDL_NumHaptics_entry:
+
+
+void localtime()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+localtime_exit:
+localtime_entry:
+
+
+void glViewport()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glViewport_exit:
+glViewport_entry:
+
+
+void SDL_CreateWindow()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_CreateWindow_exit:
+SDL_CreateWindow_entry:
+
+
+void __ctype_tolower_loc()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__ctype_tolower_loc_exit:
+__ctype_tolower_loc_entry:
+
+
+void (real32 rArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD7Channel9setVolumeEf_exit:
+_ZN4FMOD7Channel9setVolumeEf_entry:
+
+
+void SteamAPI_RegisterCallback()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SteamAPI_RegisterCallback_exit:
+SteamAPI_RegisterCallback_entry:
+
+
+void SteamAPI_Init()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SteamAPI_Init_exit:
+SteamAPI_Init_entry:
+
+
+void pthread_cond_init()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_cond_init_exit:
+pthread_cond_init_entry:
+
+
+void glGetString()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glGetString_exit:
+glGetString_entry:
+
+
+void strtod()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+strtod_exit:
+strtod_entry:
+
+
+void SDL_HapticRumblePlay()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_HapticRumblePlay_exit:
+SDL_HapticRumblePlay_entry:
+
+
+void dlopen()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+dlopen_exit:
+dlopen_entry:
+
+
+void (FMOD_CHANNELINDEX tArg04, FMOD::Sound * ptrArg04, bool fArg08, FMOD::Channel ** ptrArg0C)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD6System9playSoundE17FMOD_CHANNELINDEXPNS_5SoundEbPPNS_7ChannelE_exit:
+_ZN4FMOD6System9playSoundE17FMOD_CHANNELINDEXPNS_5SoundEbPPNS_7ChannelE_entry:
+
+
+void powf()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+powf_exit:
+powf_entry:
+
+
+void FMOD_EventSystem_Create()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+FMOD_EventSystem_Create_exit:
+FMOD_EventSystem_Create_entry:
+
+
+void pthread_mutex_destroy()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_mutex_destroy_exit:
+pthread_mutex_destroy_entry:
+
+
+void strstr()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+strstr_exit:
+strstr_entry:
+
+
+void chdir()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+chdir_exit:
+chdir_entry:
+
+
+void (FMOD_EVENT_SYSTEMINFO * ptrArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD11EventSystem7getInfoEP21FMOD_EVENT_SYSTEMINFO_exit:
+_ZN4FMOD11EventSystem7getInfoEP21FMOD_EVENT_SYSTEMINFO_entry:
+
+
+void glDepthMask()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glDepthMask_exit:
+glDepthMask_entry:
+
+
+void SDL_HapticRumbleStop()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_HapticRumbleStop_exit:
+SDL_HapticRumbleStop_entry:
+
+
+void pthread_attr_init()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_attr_init_exit:
+pthread_attr_init_entry:
+
+
+void (int32 * ptrArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD6System13getNumDriversEPi_exit:
+_ZN4FMOD6System13getNumDriversEPi_entry:
+
+
+void (real32 rArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD14EventParameter8setValueEf_exit:
+_ZN4FMOD14EventParameter8setValueEf_entry:
+
+
+void __memcpy_chk()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__memcpy_chk_exit:
+__memcpy_chk_entry:
+
+
+void FMOD_Memory_Initialize()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+FMOD_Memory_Initialize_exit:
+FMOD_Memory_Initialize_entry:
+
+
+void (const char * ptrArg04, FMOD::EventParameter ** ptrArg08)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD5Event12getParameterEPKcPPNS_14EventParameterE_exit:
+_ZN4FMOD5Event12getParameterEPKcPPNS_14EventParameterE_entry:
+
+
+void iswspace()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+iswspace_exit:
+iswspace_entry:
+
+
+void pthread_cond_wait()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_cond_wait_exit:
+pthread_cond_wait_entry:
+
+
+void pthread_yield()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_yield_exit:
+pthread_yield_entry:
+
+
+void SDL_GL_SetSwapInterval()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GL_SetSwapInterval_exit:
+SDL_GL_SetSwapInterval_entry:
+
+
+void SDL_NumJoysticks()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_NumJoysticks_exit:
+SDL_NumJoysticks_entry:
+
+
+void SDL_GetPrefPath()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GetPrefPath_exit:
+SDL_GetPrefPath_entry:
+
+
+void SDL_GetDesktopDisplayMode()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GetDesktopDisplayMode_exit:
+SDL_GetDesktopDisplayMode_entry:
+
+
+void __cxa_guard_release()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__cxa_guard_release_exit:
+__cxa_guard_release_entry:
+
+
+void glTexParameterf()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glTexParameterf_exit:
+glTexParameterf_entry:
+
+
+void glEnable()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glEnable_exit:
+glEnable_entry:
+
+
+void glClear()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glClear_exit:
+glClear_entry:
+
+
+void SDL_DestroyWindow()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_DestroyWindow_exit:
+SDL_DestroyWindow_entry:
+
+
+void __memmove_chk()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__memmove_chk_exit:
+__memmove_chk_entry:
+
+
+void pthread_mutexattr_init()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_mutexattr_init_exit:
+pthread_mutexattr_init_entry:
+
+
+void wcsncpy()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+wcsncpy_exit:
+wcsncpy_entry:
+
+
+void (FMOD_VECTOR * ptrArg04, FMOD_VECTOR * ptrArg08, FMOD_VECTOR * ptrArg0C)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD5Event15set3DAttributesEPK11FMOD_VECTORS3_S3__exit:
+_ZN4FMOD5Event15set3DAttributesEPK11FMOD_VECTORS3_S3__entry:
+
+
+void std::__throw_length_error(const char * ptrArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZSt20__throw_length_errorPKc_exit:
+_ZSt20__throw_length_errorPKc_entry:
+
+
+void (int32 * ptrArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD11EventSystem14getNumProjectsEPi_exit:
+_ZN4FMOD11EventSystem14getNumProjectsEPi_entry:
+
+
+void _setjmp()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_setjmp_exit:
+_setjmp_entry:
+
+
+void stpcpy()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+stpcpy_exit:
+stpcpy_entry:
+
+
+void fputc()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+fputc_exit:
+fputc_entry:
+
+
+void pthread_mutexattr_settype()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_mutexattr_settype_exit:
+pthread_mutexattr_settype_entry:
+
+
+void strcspn()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+strcspn_exit:
+strcspn_entry:
+
+
+void ()
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD11EventSystem6unloadEv_exit:
+_ZN4FMOD11EventSystem6unloadEv_entry:
+
+
+void FMOD_Event_GetInfo()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+FMOD_Event_GetInfo_exit:
+FMOD_Event_GetInfo_entry:
+
+
+void (int32 dwArg04, const char * ptrArg08, int32 dwArg0C, FMOD_GUID * ptrArg10)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD6System13getDriverInfoEiPciP9FMOD_GUID_exit:
+_ZN4FMOD6System13getDriverInfoEiPciP9FMOD_GUID_entry:
+
+
+void clock_gettime()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+clock_gettime_exit:
+clock_gettime_entry:
+
+
+void strtoul()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+strtoul_exit:
+strtoul_entry:
+
+
+void SDL_SetWindowGrab()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_SetWindowGrab_exit:
+SDL_SetWindowGrab_entry:
+
+
+void pthread_attr_setschedpolicy()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_attr_setschedpolicy_exit:
+pthread_attr_setschedpolicy_entry:
+
+
+void strcmp()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+strcmp_exit:
+strcmp_entry:
+
+
+void SteamRemoteStorage()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SteamRemoteStorage_exit:
+SteamRemoteStorage_entry:
+
+
+void SDL_GameControllerGetAttached()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GameControllerGetAttached_exit:
+SDL_GameControllerGetAttached_entry:
+
+
+void rand()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+rand_exit:
+rand_entry:
+
+
+void memcmp()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+memcmp_exit:
+memcmp_entry:
+
+
+void tolower()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+tolower_exit:
+tolower_entry:
+
+
+void FMOD_EventGroup_GetInfo()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+FMOD_EventGroup_GetInfo_exit:
+FMOD_EventGroup_GetInfo_entry:
+
+
+void SDL_GameControllerMapping()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GameControllerMapping_exit:
+SDL_GameControllerMapping_entry:
+
+
+void memset()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+memset_exit:
+memset_entry:
+
+
+void SDL_GetDisplayMode()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GetDisplayMode_exit:
+SDL_GetDisplayMode_entry:
+
+
+void SDL_JoystickOpen()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_JoystickOpen_exit:
+SDL_JoystickOpen_entry:
+
+
+void getenv()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+getenv_exit:
+getenv_entry:
+
+
+void ()
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD7Channel4stopEv_exit:
+_ZN4FMOD7Channel4stopEv_entry:
+
+
+void SDL_CreateRGBSurfaceFrom()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_CreateRGBSurfaceFrom_exit:
+SDL_CreateRGBSurfaceFrom_entry:
+
+
+void ()
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD5Sound7releaseEv_exit:
+_ZN4FMOD5Sound7releaseEv_entry:
+
+
+void SDL_GetBasePath()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GetBasePath_exit:
+SDL_GetBasePath_entry:
+
+
+void pthread_attr_setscope()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_attr_setscope_exit:
+pthread_attr_setscope_entry:
+
+
+void strchr()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+strchr_exit:
+strchr_entry:
+
+
+void FMOD_EventGroup_GetParentGroup()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+FMOD_EventGroup_GetParentGroup_exit:
+FMOD_EventGroup_GetParentGroup_entry:
+
+
+void __vswprintf_chk()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__vswprintf_chk_exit:
+__vswprintf_chk_entry:
+
+
+void __errno_location()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__errno_location_exit:
+__errno_location_entry:
+
+
+void SDL_GL_CreateContext()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GL_CreateContext_exit:
+SDL_GL_CreateContext_entry:
+
+
+void SDL_ShowWindow()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_ShowWindow_exit:
+SDL_ShowWindow_entry:
+
+
+void SteamAPI_UnregisterCallback()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SteamAPI_UnregisterCallback_exit:
+SteamAPI_UnregisterCallback_entry:
+
+
+void glStencilFunc()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glStencilFunc_exit:
+glStencilFunc_entry:
+
+
+void fread()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+fread_exit:
+fread_entry:
+
+
+void SDL_GameControllerOpen()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GameControllerOpen_exit:
+SDL_GameControllerOpen_entry:
+
+
+void strcat()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+strcat_exit:
+strcat_entry:
+
+
+void glTexParameteri()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glTexParameteri_exit:
+glTexParameteri_entry:
+
+
+void __strcat_chk()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__strcat_chk_exit:
+__strcat_chk_entry:
+
+
+void glStencilOp()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glStencilOp_exit:
+glStencilOp_entry:
+
+
+void strtol()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+strtol_exit:
+strtol_entry:
+
+
+void SDL_GetCurrentDisplayMode()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GetCurrentDisplayMode_exit:
+SDL_GetCurrentDisplayMode_entry:
+
+
+void glXGetProcAddressARB()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glXGetProcAddressARB_exit:
+glXGetProcAddressARB_entry:
+
+
+void SteamUserStats()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SteamUserStats_exit:
+SteamUserStats_entry:
+
+
+void __xstat()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__xstat_exit:
+__xstat_entry:
+
+
+void feclearexcept()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+feclearexcept_exit:
+feclearexcept_entry:
+
+
+void pthread_setaffinity_np()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_setaffinity_np_exit:
+pthread_setaffinity_np_entry:
+
+
+void __strcpy_chk()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__strcpy_chk_exit:
+__strcpy_chk_entry:
+
+
+void glClearStencil()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glClearStencil_exit:
+glClearStencil_entry:
+
+
+void SDL_GetDisplayName()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GetDisplayName_exit:
+SDL_GetDisplayName_entry:
+
+
+void SDL_GetWindowSize()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GetWindowSize_exit:
+SDL_GetWindowSize_entry:
+
+
+void pthread_cond_timedwait()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_cond_timedwait_exit:
+pthread_cond_timedwait_entry:
+
+
+void __cxa_atexit()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__cxa_atexit_exit:
+__cxa_atexit_entry:
+
+
+void free()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+free_exit:
+free_entry:
+
+
+void (FMOD::System ** ptrArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD11EventSystem15getSystemObjectEPPNS_6SystemE_exit:
+_ZN4FMOD11EventSystem15getSystemObjectEPPNS_6SystemE_entry:
+
+
+void ()
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD11EventSystem6updateEv_exit:
+_ZN4FMOD11EventSystem6updateEv_entry:
+
+
+void SDL_ShowCursor()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_ShowCursor_exit:
+SDL_ShowCursor_entry:
+
+
+void (uint32 dwArg04, uint32 dwArg08, FMOD::Event ** ptrArg0C)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD11EventSystem18getEventBySystemIDEjjPPNS_5EventE_exit:
+_ZN4FMOD11EventSystem18getEventBySystemIDEjjPPNS_5EventE_entry:
+
+
+void SDL_SetWindowSize()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_SetWindowSize_exit:
+SDL_SetWindowSize_entry:
+
+
+void (FMOD_RESULT (* ptrArg04)(FMOD_EVENT * ptrArg04, FMOD_EVENT_CALLBACKTYPE tArg08, void * ptrArg08, FMOD_EVENT_CALLBACKTYPE tArg0C, FMOD_EVENT_CALLBACKTYPE tArg0C), FMOD_EVENT_CALLBACKTYPE tArg08)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD5Event11setCallbackEPF11FMOD_RESULTP10FMOD_EVENT23FMOD_EVENT_CALLBACKTYPEPvS5_S5_ES5__exit:
+_ZN4FMOD5Event11setCallbackEPF11FMOD_RESULTP10FMOD_EVENT23FMOD_EVENT_CALLBACKTYPEPvS5_S5_ES5__entry:
+
+
+void glGetIntegerv()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glGetIntegerv_exit:
+glGetIntegerv_entry:
+
+
+void strrchr()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+strrchr_exit:
+strrchr_entry:
+
+
+void SDL_SetWindowIcon()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_SetWindowIcon_exit:
+SDL_SetWindowIcon_entry:
+
+
+void SDL_GameControllerGetButton()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GameControllerGetButton_exit:
+SDL_GameControllerGetButton_entry:
+
+
+void pthread_cond_broadcast()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_cond_broadcast_exit:
+pthread_cond_broadcast_entry:
+
+
+void memchr()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+memchr_exit:
+memchr_entry:
+
+
+void ctime()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+ctime_exit:
+ctime_entry:
+
+
+void ()
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD5Event5startEv_exit:
+_ZN4FMOD5Event5startEv_entry:
+
+
+void glGetTexLevelParameteriv()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glGetTexLevelParameteriv_exit:
+glGetTexLevelParameteriv_entry:
+
+
+void pthread_mutex_unlock()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_mutex_unlock_exit:
+pthread_mutex_unlock_entry:
+
+
+void fclose()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+fclose_exit:
+fclose_entry:
+
+
+void SteamUser()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SteamUser_exit:
+SteamUser_entry:
+
+
+void ferror()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+ferror_exit:
+ferror_entry:
+
+
+void wcscmp()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+wcscmp_exit:
+wcscmp_entry:
+
+
+void fileno()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+fileno_exit:
+fileno_entry:
+
+
+void (int32 dwArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD6System9setDriverEi_exit:
+_ZN4FMOD6System9setDriverEi_entry:
+
+
+void SDL_SetWindowDisplayMode()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_SetWindowDisplayMode_exit:
+SDL_SetWindowDisplayMode_entry:
+
+
+void strcpy()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+strcpy_exit:
+strcpy_entry:
+
+
+void __wcscat_chk()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__wcscat_chk_exit:
+__wcscat_chk_entry:
+
+
+void mbsrtowcs()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+mbsrtowcs_exit:
+mbsrtowcs_entry:
+
+
+void glAlphaFunc()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glAlphaFunc_exit:
+glAlphaFunc_entry:
+
+
+void fputs()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+fputs_exit:
+fputs_entry:
+
+
+void pthread_self()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_self_exit:
+pthread_self_entry:
+
+
+void dlsym()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+dlsym_exit:
+dlsym_entry:
+
+
+void nanosleep()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+nanosleep_exit:
+nanosleep_entry:
+
+
+void __vfprintf_chk()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__vfprintf_chk_exit:
+__vfprintf_chk_entry:
+
+
+void SDL_GL_GetDrawableSize()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GL_GetDrawableSize_exit:
+SDL_GL_GetDrawableSize_entry:
+
+
+void pthread_exit()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_exit_exit:
+pthread_exit_entry:
+
+
+void SDL_JoystickNumButtons()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_JoystickNumButtons_exit:
+SDL_JoystickNumButtons_entry:
+
+
+void glDisable()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glDisable_exit:
+glDisable_entry:
+
+
+void __cxa_pure_virtual()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__cxa_pure_virtual_exit:
+__cxa_pure_virtual_entry:
+
+
+void SteamUtils()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SteamUtils_exit:
+SteamUtils_entry:
+
+
+void __mbrlen()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__mbrlen_exit:
+__mbrlen_entry:
+
+
+void (uint32 * ptrArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD5Event8getStateEPj_exit:
+_ZN4FMOD5Event8getStateEPj_entry:
+
+
+void fopen()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+fopen_exit:
+fopen_entry:
+
+
+void pthread_setschedprio()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_setschedprio_exit:
+pthread_setschedprio_entry:
+
+
+void malloc()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+malloc_exit:
+malloc_entry:
+
+
+void SteamAPI_RegisterCallResult()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SteamAPI_RegisterCallResult_exit:
+SteamAPI_RegisterCallResult_entry:
+
+
+void getcwd()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+getcwd_exit:
+getcwd_entry:
+
+
+void (void * ptrArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD5Event11setUserDataEPv_exit:
+_ZN4FMOD5Event11setUserDataEPv_entry:
+
+
+void pthread_condattr_setpshared()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_condattr_setpshared_exit:
+pthread_condattr_setpshared_entry:
+
+
+void __printf_chk()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__printf_chk_exit:
+__printf_chk_entry:
+
+
+void sysconf()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+sysconf_exit:
+sysconf_entry:
+
+
+void (real32 * ptrArg04, getDefaults tArg08, getDefaults tArg08, int32 * ptrArg08)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD5Sound11getDefaultsEPfS1_S1_Pi_exit:
+_ZN4FMOD5Sound11getDefaultsEPfS1_S1_Pi_entry:
+
+
+void SDL_GL_SetAttribute()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GL_SetAttribute_exit:
+SDL_GL_SetAttribute_entry:
+
+
+void glDeleteTextures()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glDeleteTextures_exit:
+glDeleteTextures_entry:
+
+
+void SDL_GetError()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GetError_exit:
+SDL_GetError_entry:
+
+
+void memalign()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+memalign_exit:
+memalign_entry:
+
+
+void SDL_GetDisplayBounds()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GetDisplayBounds_exit:
+SDL_GetDisplayBounds_entry:
+
+
+void towupper()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+towupper_exit:
+towupper_entry:
+
+
+void SteamAPI_RunCallbacks()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SteamAPI_RunCallbacks_exit:
+SteamAPI_RunCallbacks_entry:
+
+
+void closedir()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+closedir_exit:
+closedir_entry:
+
+
+void pthread_attr_setdetachstate()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_attr_setdetachstate_exit:
+pthread_attr_setdetachstate_entry:
+
+
+void FMOD_Event_GetParentGroup()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+FMOD_Event_GetParentGroup_exit:
+FMOD_Event_GetParentGroup_entry:
+
+
+void glGetError()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glGetError_exit:
+glGetError_entry:
+
+
+void pthread_mutexattr_destroy()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_mutexattr_destroy_exit:
+pthread_mutexattr_destroy_entry:
+
+
+void SteamAPI_UnregisterCallResult()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SteamAPI_UnregisterCallResult_exit:
+SteamAPI_UnregisterCallResult_entry:
+
+
+void glTexImage2D()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glTexImage2D_exit:
+glTexImage2D_entry:
+
+
+void __vsprintf_chk()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__vsprintf_chk_exit:
+__vsprintf_chk_entry:
+
+
+void (bool fArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD5Event4stopEb_exit:
+_ZN4FMOD5Event4stopEb_entry:
+
+
+void opendir()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+opendir_exit:
+opendir_entry:
+
+
+void readdir()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+readdir_exit:
+readdir_entry:
+
+
+void SDL_GetNumVideoDisplays()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GetNumVideoDisplays_exit:
+SDL_GetNumVideoDisplays_entry:
+
+
+void SDL_PollEvent()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_PollEvent_exit:
+SDL_PollEvent_entry:
+
+
+void (FMOD_OUTPUTTYPE tArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD6System9setOutputE15FMOD_OUTPUTTYPE_exit:
+_ZN4FMOD6System9setOutputE15FMOD_OUTPUTTYPE_entry:
+
+
+void qsort()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+qsort_exit:
+qsort_entry:
+
+
+void readlink()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+readlink_exit:
+readlink_entry:
+
+
+void (const char * ptrArg04, FMOD_EVENT_LOADINFO * ptrArg08, FMOD::EventProject ** ptrArg0C)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD11EventSystem4loadEPKcP19FMOD_EVENT_LOADINFOPPNS_12EventProjectE_exit:
+_ZN4FMOD11EventSystem4loadEPKcP19FMOD_EVENT_LOADINFOPPNS_12EventProjectE_entry:
+
+
+void wcscat()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+wcscat_exit:
+wcscat_entry:
+
+
+void (FMOD::MusicSystem ** ptrArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD11EventSystem14getMusicSystemEPPNS_11MusicSystemE_exit:
+_ZN4FMOD11EventSystem14getMusicSystemEPPNS_11MusicSystemE_entry:
+
+
+void strncmp()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+strncmp_exit:
+strncmp_entry:
+
+
+void glDrawArrays()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glDrawArrays_exit:
+glDrawArrays_entry:
+
+
+void SDL_IsGameController()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_IsGameController_exit:
+SDL_IsGameController_entry:
+
+
+void (int32 * ptrArg04)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD6System9getDriverEPi_exit:
+_ZN4FMOD6System9getDriverEPi_entry:
+
+
+void fflush()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+fflush_exit:
+fflush_entry:
+
+
+void SDL_GetNumDisplayModes()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GetNumDisplayModes_exit:
+SDL_GetNumDisplayModes_entry:
+
+
+void glBindTexture()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glBindTexture_exit:
+glBindTexture_entry:
+
+
+void glCullFace()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glCullFace_exit:
+glCullFace_entry:
+
+
+void SDL_free()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_free_exit:
+SDL_free_entry:
+
+
+void __sprintf_chk()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__sprintf_chk_exit:
+__sprintf_chk_entry:
+
+
+void __snprintf_chk()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+__snprintf_chk_exit:
+__snprintf_chk_entry:
+
+
+void fseek()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+fseek_exit:
+fseek_entry:
+
+
+void SDL_GameControllerAddMapping()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_GameControllerAddMapping_exit:
+SDL_GameControllerAddMapping_entry:
+
+
+void SDL_Init()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SDL_Init_exit:
+SDL_Init_entry:
+
+
+void SteamFriends()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+SteamFriends_exit:
+SteamFriends_entry:
+
+
+void pthread_attr_setinheritsched()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_attr_setinheritsched_exit:
+pthread_attr_setinheritsched_entry:
+
+
+void pthread_attr_setschedparam()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+pthread_attr_setschedparam_exit:
+pthread_attr_setschedparam_entry:
+
+
+void glXGetClientString()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+glXGetClientString_exit:
+glXGetClientString_entry:
+
+
+void (int32 dwArg04, FMOD::EventProject ** ptrArg08)
+// stackDelta: 4; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+_ZN4FMOD11EventSystem17getProjectByIndexEiPPNS_12EventProjectE_exit:
+_ZN4FMOD11EventSystem17getProjectByIndexEiPPNS_12EventProjectE_entry:
+
+
+void FMOD_Memory_GetStats()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+FMOD_Memory_GetStats_exit:
+FMOD_Memory_GetStats_entry:
+
+

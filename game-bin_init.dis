@@ -1,0 +1,19 @@
+void _init()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse: 
+// LiveOut:
+// Trashed: SCZO eax Top
+// Preserved: ebx esp
+_init_entry:
+l0804BE54:
+	branch Mem6[0x08C39FFC<p32>:word32] == 0<32> l0804BE73
+l0804BE6E:
+	call __gmon_start__ (retsize: 4;)
+l0804BE73:
+	fn0804D180()
+	fn08976750()
+	return
+_init_exit:
+
+

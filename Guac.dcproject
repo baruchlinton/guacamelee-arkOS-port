@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemata.jklnet.org/Reko/v5">
+  <arch>x86-protected-32</arch>
+  <platform>win32</platform>
+  <input>
+    <filename>..\..\depot_214771\Guac.exe</filename>
+    <asmDir>..\..\depot_214771\Guac.reko</asmDir>
+    <srcDir>..\..\depot_214771\Guac.reko</srcDir>
+    <includeDir>..\..\depot_214771\Guac.reko</includeDir>
+    <resources>..\..\depot_214771\Guac.reko\resources</resources>
+    <user>
+      <processor />
+      <registerValues />
+      <outputFilePolicy>Segment</outputFilePolicy>
+    </user>
+  </input>
+</project>

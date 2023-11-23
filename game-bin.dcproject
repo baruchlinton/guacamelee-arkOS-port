@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemata.jklnet.org/Reko/v5">
+  <arch>x86-protected-32</arch>
+  <platform>elf-neutral</platform>
+  <input>
+    <filename>..\game-bin</filename>
+    <asmDir>..\game-bin.reko</asmDir>
+    <srcDir>..\game-bin.reko</srcDir>
+    <includeDir>..\game-bin.reko</includeDir>
+    <resources>..\game-bin.reko\resources</resources>
+    <user>
+      <processor />
+      <registerValues />
+      <outputFilePolicy>Segment</outputFilePolicy>
+    </user>
+  </input>
+</project>
